@@ -34,16 +34,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 #### The database captures details such as customer_id, customer_name , city, product_name, product_id, sales_amount and many more.
 
-💹 Data Model
+# 💹 Data Model
 
-### Database Used - https://tinyurl.com/4hyfjatj
-
-### Dataset -  https://tinyurl.com/yu8txn4r
-
-### Metadata -  https://tinyurl.com/yu8txn4r
+ ![data model](https://github.com/saksham-mishra24/Supply-Chain-Data-analytics/assets/120908587/fafb2211-d681-40e1-ba91-170ad87c7609)
 
 
-# Data Model ![datamodel-sales](https://github.com/saksham-mishra24/Sales_Insights_Project_Codebasics/assets/120908587/266deec8-fc60-45d9-b871-e8b6fc84e5aa)
 
 
 
